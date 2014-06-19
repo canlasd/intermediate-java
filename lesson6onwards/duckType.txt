@@ -1,0 +1,9 @@
+your type of duck
+=============
+type:
+     mallard
+duck characteristics:
+        Has Ducklings
+duck options
+        3  :number of ducks with feathers
+        3  :number of ducks with long wings
